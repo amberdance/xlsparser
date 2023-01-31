@@ -1,0 +1,17 @@
+{
+  "name": "hard2code/xlsparser",
+  "type": "project",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Hard2code\\XlsParser\\": "src/"
+    }
+  },
+  "require": {
+    "php": "^8.0.2",
+    "phpunit/phpunit": "^9"
+  },
+  "require-dev": {
+    "phpoffice/phpspreadsheet": "^1.23"
+  }
+}
